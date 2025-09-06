@@ -46,6 +46,18 @@
 | Kuntosali     | 2x viikossa   |
 
 ---
+## Koodilohko esimerkki
+
+```csharp
+using System;
+
+class Program
+{
+    static void Main(string[] args)
+    {
+        Console.WriteLine("hyvvee päivee!");
+    }
+}
 
 
 
