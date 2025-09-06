@@ -32,7 +32,7 @@
 
 ## Tsemppiä
 
-![Tekohymy](tekohymy22.jpg)
+![Tekohymy](Tekohymy22.jpg)
 
 
 ---
