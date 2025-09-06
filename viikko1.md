@@ -43,7 +43,7 @@
 |---------------|-------------- |
 | Kitara        | Päivittäin    |
 |Jääkiekko      | 3x viikossa   |
-| Kuntosali     | 2x            |
+| Kuntosali     | 2x viikossa   |
 
 ---
 
