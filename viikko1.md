@@ -10,9 +10,9 @@
 - Kitaran soitto  
 - Kuntosali
 
-### Miksi opiskelen tieto ja viestintätekniikkaa?
+### Päivän niilo viisaus
 
-> Tällä alalla uuden oppiminen ja osaamisen lisääminen on avain uralla etenemiseen
+> "Kello ei ole se mitä tässä videossa näkyy vaan kello on silloin juuri sen verran kun se silloin on kun sinä tätä videota katsot"
 
 ---
 
